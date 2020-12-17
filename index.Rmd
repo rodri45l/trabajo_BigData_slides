@@ -4,7 +4,7 @@ author: "Rodrigo Lara <br> Nacho Corachan <br> Sergio Escorcia"
 date: "Diciembre 2020"
 output: 
       ioslides_presentation:
-        background.color: "white"
+        background.color: "green"
         
 ---
 ```{css, echo = FALSE}

@@ -316,6 +316,11 @@ temPco2gf
 </div>
 
 
+## Avance contra el co2 en europa
+
+![](./imagenes/mapp.gif)
+
+
 
 ## Feliz Navidad y suerte con los examenes
 <div class = "centered">

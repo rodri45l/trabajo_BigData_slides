@@ -11,15 +11,15 @@ página web de la asignatura puede verse aquí:
 <!-- En la linea de abajo has de sustituir "perezp44" por tu usuario de Github-->
 
 La versión final de estas transparencias puede visualizarse en:
-<a href="https://perezp44.github.io/_trabajo_BigData_slides/" class="uri">https://perezp44.github.io/_trabajo_BigData_slides/</a>.
+<a href="https://rodri45l.github.io/_trabajo_BigData_slides/" class="uri">https://rodri45l.github.io/_trabajo_BigData_slides/</a>.
 
 <!-- En la linea de abajo has de sustituir "perezp44" por tu usuario de Github-->
 
 La versión final del trabajo puede visualizarse en:
-<a href="https://perezp44.github.io/_trabajo_BigData_equipo/" class="uri">https://perezp44.github.io/_trabajo_BigData_equipo/</a>.
+<a href="https://rodri45l.github.io/_trabajo_BigData_equipo/" class="uri">https://rodri45l.github.io/_trabajo_BigData_equipo/</a>.
 
 <!-- Abajo podéis escribir lo que queráis, igual un resumen del trabajo, o ..., o ... pero al menos, tenéis que poner el título del trabajo y el nombre de los componentes del equipo-->
 
-El título del trabajo es …..
+El título del trabajo es Análisis del impacto ecológico.
 
 <!-- Finalmente, acuérdate que cuando hayas hecho los cambios y hayas dejado este archivo como hayáis decidido, TENEIS que knittearlo para que los cambio se actualicen en el fichero Readme.md, que es el que finalmente se visualizará en Github-->

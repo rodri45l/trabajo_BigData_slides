@@ -317,10 +317,14 @@ temPco2gf
 
 
 ## Avance contra el co2 en europa
-
+<div class = "centered">
 ![](./imagenes/mapp.gif)
+</div>
 
-
+## Otro gráfico sobre Europa
+<div class = "centered">
+![](./imagenes/Rplot2.jpeg)
+</div>
 
 ## Feliz Navidad y suerte con los examenes
 <div class = "centered">

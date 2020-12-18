@@ -5,6 +5,7 @@ date: "Diciembre 2020"
 output: 
       ioslides_presentation:
         background.color: "green"
+        logo: "./imagenes/logo.png" 
         
 ---
 ```{css, echo = FALSE}
